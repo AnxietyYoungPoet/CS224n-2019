@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 import pickle
 import numpy as np
 import os
 import random
+
 
 class StanfordSentiment:
     def __init__(self, path=None, tablesize = 1000000):

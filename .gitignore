@@ -1,3 +1,4 @@
 
 *.html
 utils/datasets/*
+*.pyc
