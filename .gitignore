@@ -2,3 +2,4 @@
 *.html
 utils/datasets/*
 *.pyc
+*.json
