@@ -12,6 +12,7 @@ from word2vec import *
 from sgd import *
 
 # Check Python Version
+# test push
 import sys
 assert sys.version_info[0] == 3
 assert sys.version_info[1] >= 5
