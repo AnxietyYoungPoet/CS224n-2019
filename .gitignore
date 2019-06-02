@@ -3,4 +3,7 @@
 utils/datasets/*
 *.pyc
 *.json
-*/saved*
+*saved*
+*.bin
+*.optim
+
